@@ -11,6 +11,8 @@ public class PS {
 	public void BT()
 	{
 		System.out.println("I am first");
+		System.out.println("I am last");
+		System.out.println("I am middle");
 	}
 
 }
