@@ -15,6 +15,10 @@ public class PS {
 		System.out.println("I am middle");
 	}
 
+	public void America()
+	{
+		System.out.println("Chumma");
+	}
 }
 
 

@@ -14,4 +14,8 @@ public class PS3 {
 		return a;
 	}
 
+	public void Fun()
+	{
+		System.out.println("Oh No!");
+	}
 }
