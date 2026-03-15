@@ -20,5 +20,10 @@ public class PS2 extends PS3 {
 		a = a-1;
 		return a;
 	}
+	
+	public void Architect()
+	{
+		System.out.println("Architectural engineer");
+	}
 
 }

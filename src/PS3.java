@@ -17,5 +17,6 @@ public class PS3 {
 	public void Fun()
 	{
 		System.out.println("Oh No!");
+		System.out.println("Oh Yes!");
 	}
 }
